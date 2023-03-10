@@ -7,7 +7,6 @@
 module.exports =
  {
 
-    "URI": "mongodb+srv://cathy:ExqWcezeKRdE8MLY@cluster0.npejnyn.mongodb.net/cathy?retryWrites=true&w=majority"
+    "URI": "mongodb+srv://cathy0320:ExqWcezeKRdE8MLY@cluster0.npejnyn.mongodb.net/cathy?retryWrites=true&w=majority"
 }
 
-//mongodb+srv://bernice:<password>@cluster0.sgfemky.mongodb.net/test
